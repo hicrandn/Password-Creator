@@ -18,6 +18,8 @@ Terminalden kod dizinine gidiniz;
 
 Geri kalan yönergeler print ile anlatılmıştır.
 
+Video Link: https://youtu.be/dxT6gOBEJcI
+
 ---
 
 # Kişisel Bilgiler ve Amaç
