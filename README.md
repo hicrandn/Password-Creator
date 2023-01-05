@@ -20,7 +20,7 @@ Geri kalan yönergeler print ile anlatılmıştır.
 
 ---
 
-#Kişisel Bilgiler ve Amaç
+# Kişisel Bilgiler ve Amaç
 Proje Bilgisayar Mühendisliği Linux Dersi Kapsamında Yapılmıştır.
 Hicran Apaydın 19360859044
 
